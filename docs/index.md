@@ -49,4 +49,4 @@
 
 
 ![alt text](https://i.pinimg.com/originals/52/75/38/5275385715e45d261bb0d2c19e65d9ea.gif)
-# Obrigado por ter lido meu artigo sobre este incrível jogo que, mesmo após décadas, continua influênte nos dias atuais!
+# Obrigado por ter lido meu artigo sobre este incrível jogo que, mesmo após décadas, continua influente nos dias atuais!
