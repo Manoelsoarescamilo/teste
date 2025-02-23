@@ -1,0 +1,9 @@
+site_name: My Docs
+theme:
+  name: material
+theme:
+  name: material
+  palette:
+    scheme: slate  # Ativa o modo escuro
+extra_css:
+  - extra.css
